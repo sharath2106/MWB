@@ -1,1 +1,1 @@
-This is a samplegit  project to show how git works!
+This is a git  project to show how git works!
